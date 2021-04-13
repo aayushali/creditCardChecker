@@ -1,3 +1,4 @@
-# HELLO
+# Credit Card Checker
 
-### This is my projects repository where I will be uploading my projects related to javaScript and websites
+#### This is a program that checks if a credit card is valid or not.
+
